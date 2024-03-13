@@ -1,4 +1,4 @@
-// Create clients and set shared const values outside of the handler.
+ // Create clients and set shared const values outside of the handler.
 
 // Create a DocumentClient that represents the query to add an item
 import { DynamoDBClient } from '@aws-sdk/client-dynamodb';
